@@ -11,3 +11,6 @@ I hope to be able to represent data effectively and creatively, so that data vis
 ## Data Visualization #1
 ## Critique by Design
 ## Final Project
+### Part 1
+### Part 2
+### Part 3
