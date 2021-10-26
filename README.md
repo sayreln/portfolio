@@ -11,6 +11,7 @@ I hope to be able to represent data effectively and creatively, so that data vis
 
 # Portfolio
 ## Data Visualization #1
+![COVID Viz]covid.md
 ## Critique by Design
 ## Final Project
 ### Part 1
