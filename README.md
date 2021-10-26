@@ -11,6 +11,9 @@ I hope to be able to represent data effectively and creatively, so that data vis
 
 # Portfolio
 ## Data Visualization #1
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7640008"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Critique by Design
 ## Final Project
 ### Part 1
