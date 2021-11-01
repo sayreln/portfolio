@@ -10,8 +10,7 @@ I am currently contributing to data protection and identity & access management 
 I hope to be able to represent data effectively and creatively, so that data visualizations supplement presented information rather than distract from it. Once I graduate, I am planning on becoming an Information Security Analyst, so creating beautiful data visualizations would be a beneficial skill for me to adequately convey cyber-related data.
 
 # Portfolio
-## Data Visualization #1: Government Debt
-[General Government Debt](/dataviz1.md)
+## [Data Visualization #1: General Government Debt](/dataviz1.md)
 ## Critique by Design
 ## Final Project
 ### Part 1
