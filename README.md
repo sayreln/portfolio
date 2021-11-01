@@ -11,7 +11,7 @@ I hope to be able to represent data effectively and creatively, so that data vis
 
 # Portfolio
 ## Data Visualization #1: Government Debt
-(/dataviz1.md)
+[General Government Debt](/dataviz1.md)
 ## Critique by Design
 ## Final Project
 ### Part 1
