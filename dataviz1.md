@@ -1,6 +1,6 @@
 # Government Debt Visualizations
 ## Government Debt-to-GDP Ratio by Country, 2019
-This chart shows the debt-to-GDP ratios for various countries in 2019.
+This chart shows the debt-to-GDP ratios for various countries in 2019. It highlights Germany, Canada, the UK, France, the USA, Italy, Japan, and the OECD average.
 <iframe src="https://data.oecd.org/chart/6vml" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vml" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 ## Government Debt-to-GDP Ratio Spanning 1995-2020 by Country
 This chart shows the debt-to-GDP ratios from 1995 until 2020 for various countries, as well as the OECD total and average debt-to-GDP ratios spanning 1995-2020.
