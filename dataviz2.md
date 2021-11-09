@@ -6,5 +6,6 @@
 
 ## Wireframe Visualization
 <img src="https://user-images.githubusercontent.com/93099291/141019343-c5e09cc9-537c-42ce-ac88-acd7cad3e922.png" width="700" />                                               
+
 ## Solution Visualization
-<div class="flourish-embed flourish-chart" data-src="visualisation/7753690"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/7753690"><script src="https://public.flourish.studio/resources/embed.js" width="900"></script></div>
