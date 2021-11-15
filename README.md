@@ -13,6 +13,6 @@ I hope to be able to represent data effectively and creatively, so that data vis
 ## [General Government Debt Visualization](/dataviz1.md)
 ## [Critique by Design Visualization](/dataviz2.md)
 ## Final Project
-### Part 1
+### [Part 1](/part1.md)
 ### Part 2
 ### Part 3
