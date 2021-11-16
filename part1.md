@@ -16,9 +16,14 @@ Next, I aim to provide visualizations via maps to demonstrate the geographical r
 #### Sixth Course: How can I dine at a Michelin?
 Now that the audience has all of the information it needs to distinguish Michelins from "run-of-the-mill" fine-dining restaurants (and is sufficiently hungry to want to dine at one immediately), I will offer information that audience members can use to make their very first Michelin reservation and plan for the occasion (i.e., dresscode, arrival time, etc.)!
 ## Sketches
-![InkedUntitled_LI](https://user-images.githubusercontent.com/93099291/141908978-f731b777-44b0-4d4a-b3a1-05ffa58cf7ec.jpg)
-![InkedUntitled2_LI](https://user-images.githubusercontent.com/93099291/141909185-ed866cb7-bdea-44bd-8753-2f5c66feba34.jpg)
-![Untitled3](https://user-images.githubusercontent.com/93099291/141908649-c3051dcf-6c31-43b8-a62f-1e993f0ead49.png)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/93099291/141908978-f731b777-44b0-4d4a-b3a1-05ffa58cf7ec.jpg" width="475" />
+  <img src="https://user-images.githubusercontent.com/93099291/141909185-ed866cb7-bdea-44bd-8753-2f5c66feba34.jpg" width="475" /> 
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93099291/141908649-c3051dcf-6c31-43b8-a62f-1e993f0ead49.png" width="600" />
+</p>
+
 ## Data Source
 My primary source of data is the spreadsheets on 1-star, 2-star, and 3-star Michelin restaurants on [Kaggle](https://www.kaggle.com/jackywang529/michelin-restaurants), as well as the [Michelin Guide](https://guide.michelin.com/en/restaurants) for additional information. I will use these datasets to provide details on the cost of dining at Michelins, as well as where one can find a Michelin restaurant nearby. This data will also be my bases for my visualizations on cuisines at different Michelin-ranked restaurants.
 
