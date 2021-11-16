@@ -1,7 +1,20 @@
 # Final Project - Part 1
 ## Final Project Outline
-### Summary
-### Structure
+*Summary:* My final project will portray the history of how Michelin stars for restaurants came to be, as well as the uniqueness of dining at a Michelin restaurant compared to other fine dining eateries. The end goal of this final project is to gradually increase my audience's appetite and, ultimately, incentivize them to make a reservation at a Michelin-ranked restaurant!
+### Project Prix Fixe
+Each of the following is one of the main components (or, courses) of this delicious, Michelin storyline:
+#### First Course: What *is* a Michelin restaurant?
+This section will provide background on Michelin restaurants and the origin story. This will be accomplished through visualizations tying the Michelin Tire brand to Michelin Restaurants, to capture my audience and intrigue them as to this strange and possibly unfamiliar concept. It will also include some key aspects that set Michelin restaurants apart from other fine dining restaurants (namely, the quality of the experience).
+#### Second Course: How do restaurants obtain Michelin stars?
+The second section will offer a brief insight into how restaurants are awarded Michelin stars. I will use visualizations to demonstrate the factors accounted for when food critics judge restaurants in consideration for Michelin rankings. This is meant to provide my audience justification for why they should even care about dining at Michelin restaurants in the first place.
+#### Third Course: How much do Michelin restaurants cost?
+This section will discourage my audience slightly, because I will portray a range of prices, as well as averages, for a multi-course meal at a Michelin restaurant, which tend to be pricey.
+#### Fourth Course: What type of cuisine do Michelin restaurants offer?
+This is the section that will *really* start to make my audience's mouths water! I will visualize the various types of cuisines inspiring Michelin menus and include some examples of real items offered at Michelins. Even though the audience was betrayed by the previous course on Michelin prices, it will start to get excited again about the possibility of dining at one of these high-end restaurants!
+#### Fifth Course: Where are Michelin restaurants located?
+Next, I aim to provide visualizations via maps to demonstrate the geographical regions that contain Michelin restaurants. This section will allow the audience to start dreaming of dining at a Michelin restaurant, now that they know where to find them. My focus for this part will be on Michelin restaurants in the United States; although, I will provide information on Michelins globally.
+#### Sixth Course: How can I dine at a Michelin?
+Now that the audience has all of the information it needs to distinguish Michelins from "run-of-the-mill" fine-dining restaurants (and is sufficiently hungry to want to dine at one immediately), I will offer information that audience members can use to make their very first Michelin reservation and plan for the occasion (i.e., dresscode, arrival time, etc.)!
 ## Initial Sketches
 ## Data Source
 ## Method & Medium
