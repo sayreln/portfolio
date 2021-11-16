@@ -15,6 +15,7 @@ This is the section that will *really* start to make my audience's mouths water!
 Next, I aim to provide visualizations via maps to demonstrate the geographical regions that contain Michelin restaurants. This section will allow the audience to start dreaming of dining at a Michelin restaurant, now that they know where to find them. My focus for this part will be on Michelin restaurants in the United States; although, I will provide information on Michelins globally.
 #### Sixth Course: How can I dine at a Michelin?
 Now that the audience has all of the information it needs to distinguish Michelins from "run-of-the-mill" fine-dining restaurants (and is sufficiently hungry to want to dine at one immediately), I will offer information that audience members can use to make their very first Michelin reservation and plan for the occasion (i.e., dresscode, arrival time, etc.)!
-## Initial Sketches
+## Sketches
 ## Data Source
 ## Method & Medium
+This project will be completed using Shorthand. Prior to creating any piece of my project, I will determine an appropriate color scheme for my project theme (i.e., likely red, since the color red supposedly impacts people's desire to eat!). I will create all of my primary visualizations and charts before beginning to compile any components on the platform. Once I have created my visualizations, I will determine which royalty-free images I will use to supplement the data I am presenting and story I am telling. Finally, I will include any necessary text to provide more details that my audience may not obtain from my visualizations.
