@@ -6,6 +6,7 @@
 
 ## User Research
 ### Methodology
+The target audience for my final project is people who live in or are traveling to the United States. Since the intent of this visualization project is to incentivize people in the United States to dine at a Michelin restaurant, I will interview people I encounter on a daily basis. To represent various demographics of people in the U.S., I will obtain feedback from colleagues, friends, and family members with different backgrounds and experiences.
 ### Interview Script
 ### Feedback/Key Findings
 ### Anticipated Modifications
