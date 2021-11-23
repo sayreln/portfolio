@@ -27,4 +27,4 @@ The target audience for my final project is people who live in or are traveling 
 "I feel like I'm only seeing pink 1-star dots on the map."
 "Maybe you can represent the cost of each restaurant on the map somehow."
 ### Anticipated Modifications
-Filter the map by each region in the U.S. containing Michelin restaurants.
+Based on my findings and the feedback I received from interviewees, I plan on filtering the map by each region in the U.S. containing Michelin restaurants, to eliminate the extensive gray space and focus on the important regions. I also will include the price range for each restaurant within the tooltip function on the map.
