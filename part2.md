@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/93099291/143141005-5c9a0aa2-4709-4d6f-bd7a-128467c55c6b.png"/>
 
 ### Third Course: Pricey Dining
-<img src="https://user-images.githubusercontent.com/93099291/143095464-3da8a92d-d681-4120-9a7e-e133c18a653d.png"/>
+<img src="https://user-images.githubusercontent.com/93099291/143095464-3da8a92d-d681-4120-9a7e-e133c18a653d.png" width="700"/>
 
 ### Fourth Course: Michelin Cuisine
 <div class="flourish-embed flourish-chart" data-src="visualisation/7908452"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
