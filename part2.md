@@ -9,4 +9,8 @@
 The target audience for my final project is people who live in or are traveling to the United States. Since the intent of this visualization project is to incentivize people in the United States to dine at a Michelin restaurant, I will interview people I encounter on a daily basis. To represent various demographics of people in the U.S., I will obtain feedback from colleagues, friends, and family members with different backgrounds and experiences.
 ### Interview Script
 ### Feedback/Key Findings
+"There's a lot of gray space, so it's hard to know what to focus on." 
+"I feel like I'm only seeing pink 1-star dots on the map."
+"Maybe you can represent the cost of each restaurant on the map somehow."
 ### Anticipated Modifications
+Filter the map by each region in the U.S. containing Michelin restaurants.
