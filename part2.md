@@ -23,8 +23,8 @@ The target audience for my final project is people who live in or are traveling 
 4. "Thank you for providing your feedback!"
 
 ### Feedback/Key Findings
-"There's a lot of gray space, so it's hard to know what to focus on." 
-"I feel like I'm only seeing pink 1-star dots on the map."
+"There's a lot of gray space on the map, so it's hard to know what to focus on." 
+"I feel like I'm only seeing pink 1-star dots on the map since they are overlapping the darker dots."
 "Maybe you can represent the cost of each restaurant on the map somehow."
 ### Anticipated Modifications
 Based on my findings and the feedback I received from interviewees, I plan on filtering the map by each region in the U.S. containing Michelin restaurants, to eliminate the extensive gray space and focus on the important regions. I also will include the price range for each restaurant within the tooltip function on the map.
