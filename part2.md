@@ -1,8 +1,18 @@
 # Final Project - Part 2
 ## Storyboard
+### First Course: The Michelin Story
 <img src="https://user-images.githubusercontent.com/93099291/143094441-deace8fb-a383-4384-a9bd-bd41cd983b7c.png"/>
+
+### Second Course: Michelin Star Criteria
+<img src="https://user-images.githubusercontent.com/93099291/143103751-d37e4c53-445c-4d2f-8079-42405d8c4287.png"/>
+
+### Third Course: Pricey Dining
 <img src="https://user-images.githubusercontent.com/93099291/143095464-3da8a92d-d681-4120-9a7e-e133c18a653d.png"/>
+
+### Fourth Course: Michelin Cuisine
 <div class="flourish-embed flourish-chart" data-src="visualisation/7908452"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Fifth Course: Michelins Near Me
 <iframe src="https://prod-useast-b.online.tableau.com/t/lsayredataviz/views/USMichelinMap/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
 ## User Research
