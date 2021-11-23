@@ -8,6 +8,20 @@
 ### Methodology
 The target audience for my final project is people who live in or are traveling to the United States. Since the intent of this visualization project is to incentivize people in the United States to dine at a Michelin restaurant, I will interview people I encounter on a daily basis. To represent various demographics of people in the U.S., I will obtain feedback from colleagues, friends, and family members with different backgrounds and experiences.
 ### Interview Script
+1. "Today I will take about 5-10 minutes to present to you some visualizations that I have created for a project I am working on, as well as collect any responses you might have. Any information I collect is for my own research and project feedback. I will not be sharing or publishing any sensitive or personal information. Is it okay with you if I record the feedback you provide?"
+2. "Before we start, I would like to ask you some questions to gain background on the users I am interviewing. Is that okay?"
+    * "How often do you go out to eat?"
+    * "When you dine out, what restaurants or types of restaurants do you typically frequent?"
+    * "If you are comfortable sharing, how much do you usually spend or budget for spending when dining out?"
+    * "Do you enjoy fine dining?"
+    * "Do you know what a Michelin restaurant is and, if you do, have you dined at one before?"
+3. "Thank you for answering those questions. Next, I will walk you through my storyboard and ask you some questions related to what you perceive."
+    * "In your own words, can you explain to me what you think the purpose of this presentation is?"
+    * "Is there anything you find to be confusing or suprising about the visualizations or the flow of the story?"
+    * "Who do you believe the intended audience is for this?"
+    * "Is there anything that you would change or do differently to better convey the intent of this presentation?"
+4. "Thank you for providing your feedback!"
+
 ### Feedback/Key Findings
 "There's a lot of gray space, so it's hard to know what to focus on." 
 "I feel like I'm only seeing pink 1-star dots on the map."
