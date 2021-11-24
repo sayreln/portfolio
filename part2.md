@@ -3,23 +3,41 @@
 ### First Course: The Michelin Story
 <img src="https://user-images.githubusercontent.com/93099291/143148452-8cc9fde2-4f99-43e4-89bf-e2324a28e17a.jpg"/>
 
-(["MichelinStar.svg"](https://commons.wikimedia.org/wiki/File:MichelinStar.svg) by [Nikolaos Dimos](https://commons.wikimedia.org/w/index.php?title=User:Nikosdimos&action=edit&redlink=1) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93099291/143148927-9e4c21c5-7461-4db7-abdd-0384b6d486fb.png" width="1.7%"/>
+</p>
 
 ### Second Course: Michelin Star Criteria
 <img src="https://user-images.githubusercontent.com/93099291/143141005-5c9a0aa2-4709-4d6f-bd7a-128467c55c6b.png"/>
 
 (["MichelinStar.svg"](https://commons.wikimedia.org/wiki/File:MichelinStar.svg) by [Nikolaos Dimos](https://commons.wikimedia.org/w/index.php?title=User:Nikosdimos&action=edit&redlink=1) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93099291/143148927-9e4c21c5-7461-4db7-abdd-0384b6d486fb.png" width="1.7%"/>
+</p>
+
 ### Third Course: Pricey Dining
 <img src="https://user-images.githubusercontent.com/93099291/143095464-3da8a92d-d681-4120-9a7e-e133c18a653d.png" width="700"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93099291/143148927-9e4c21c5-7461-4db7-abdd-0384b6d486fb.png" width="1.7%"/>
+</p>
 
 ### Fourth Course: Michelin Cuisine
 <div class="flourish-embed flourish-chart" data-src="visualisation/7908452"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93099291/143148927-9e4c21c5-7461-4db7-abdd-0384b6d486fb.png" width="1.7%"/>
+</p>
+
 ### Fifth Course: Michelins Near Me
 <iframe src="https://public.tableau.com/views/USMichelinMap/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
                                                                         
-                                                                                                          Source: Michelin Guide
+<p align="right">
+  Source: Michelin Guide
+</p>
+                                                                                                       
+                                                                                                          
 ## User Research
 ### Methodology
 The target audience for my final project is people who live in or are traveling to the United States. Since the intent of this visualization project is to incentivize people in the United States to dine at a Michelin restaurant, I will interview people I encounter on a daily basis. To represent various demographics of people in the U.S., I will obtain feedback from colleagues, friends, and family members with different backgrounds and experiences.
