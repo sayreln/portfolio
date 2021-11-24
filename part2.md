@@ -1,10 +1,14 @@
 # Final Project - Part 2
 ## Storyboard
 ### First Course: The Michelin Story
-<img src="https://user-images.githubusercontent.com/93099291/143094441-deace8fb-a383-4384-a9bd-bd41cd983b7c.png"/>
+<img src="https://user-images.githubusercontent.com/93099291/143148452-8cc9fde2-4f99-43e4-89bf-e2324a28e17a.jpg"/>
+
+(["MichelinStar.svg"](https://commons.wikimedia.org/wiki/File:MichelinStar.svg) by [Nikolaos Dimos](https://commons.wikimedia.org/w/index.php?title=User:Nikosdimos&action=edit&redlink=1) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 ### Second Course: Michelin Star Criteria
 <img src="https://user-images.githubusercontent.com/93099291/143141005-5c9a0aa2-4709-4d6f-bd7a-128467c55c6b.png"/>
+
+(["MichelinStar.svg"](https://commons.wikimedia.org/wiki/File:MichelinStar.svg) by [Nikolaos Dimos](https://commons.wikimedia.org/w/index.php?title=User:Nikosdimos&action=edit&redlink=1) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 ### Third Course: Pricey Dining
 <img src="https://user-images.githubusercontent.com/93099291/143095464-3da8a92d-d681-4120-9a7e-e133c18a653d.png" width="700"/>
