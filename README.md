@@ -16,4 +16,4 @@ I hope to be able to represent data effectively and creatively, so that data vis
 ### [Part 1](/part1.md)
 ### [Part 2](/part2.md)
 ### [Part 3](/part3.md)
-### [Final Data Story](<script src="https://carnegiemellon.shorthandstories.com/michelindining/embed.js"></script>)
+### [Final Data Story]("https://carnegiemellon.shorthandstories.com/michelindining/embed.js")
