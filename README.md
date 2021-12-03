@@ -12,7 +12,4 @@ I hope to be able to represent data effectively and creatively, so that data vis
 # Portfolio
 ## [General Government Debt Visualization](/dataviz1.md)
 ## [Critique by Design Visualization](/dataviz2.md)
-## Final Project
-### [Part 1](/part1.md)
-### [Part 2](/part2.md)
-### [Part 3](/part3.md)
+## [Final Project](/finalproj.md)
